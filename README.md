@@ -24,3 +24,7 @@ My work centers on transforming cutting-edge AI research into intuitive tools th
   <img src="https://github-readme-stats.vercel.app/api?username=meyumer55&show_icons=true&theme=radical" alt="Ersin's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyumer55&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/meyumer/)
